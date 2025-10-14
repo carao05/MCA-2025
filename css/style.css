@@ -5,6 +5,6 @@ body {
 title {
   color: blue;
   text-align: center;
-  font-family: "monaco", monospace;
-  font-size: 15px;
+  font-family: monaco;
+  font-size: 30px;
 }
