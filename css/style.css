@@ -2,7 +2,7 @@ body {
   background-color:rgb(173, 216, 230);
 }
 
-h1 {
+title {
   color: blue;
   text-align: center;
   font-family: "monaco", monospace;
