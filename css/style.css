@@ -1,3 +1,9 @@
 body {
   background-color:rgb(173, 216, 230);
 }
+p {
+  color: blue;
+  text-align: center;
+  font-family: monaco;
+  font-size: 15px;
+}
