@@ -11,6 +11,26 @@ header {
   border-radius: 5px;
   padding: 10px 15px;
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: rgb(135, 206, 235);
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link and background color on hover */
+li a:hover {
+  background-color: white;
+  color: rgb(135, 206, 235);
+}
 
 a {
   color: rgb(100, 149, 237);
