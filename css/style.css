@@ -11,8 +11,6 @@ h1 {
   font-weight: 900; 
   border-radius: 5px;
   padding: 2px 15px;
-  
-  
 }
 
 h2 {
@@ -23,8 +21,7 @@ h2 {
   font-weight: 900;
   border-radius: 5px;
   padding: 2px 15px;
-  background-color: #D4DFF4
-;
+  background-color: #D4DFF4;
 }
 
 h3 {
@@ -63,8 +60,6 @@ p {
  border-radius: 5px;
  padding: 10px 15px;
 }
-
-
 
 ul {
   list-style-type: none;
