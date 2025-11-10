@@ -25,10 +25,13 @@ li a {
   padding: 8px 16px;
   text-decoration: none;
 }
-
-li a:hover {
-  background-color: white;
-  color: rgb(135, 206, 235);
+li a.active {
+  background-color: rgb(106,90,205);
+  color: white;
 }
+
+li a:hover:not(.active) {
+  background-color: #555555;
+  color: white;
 
 
