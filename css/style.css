@@ -16,6 +16,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  top: 0;
   width: 200px;
   background-color: rgb(135, 206, 235);
   position: fixed;
