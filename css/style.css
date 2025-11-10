@@ -1,9 +1,9 @@
 body {
- background-colour: white;
+ background-colour: rgb(240, 248, 255);
 }
 
 h1 {
-  color: Cornflowerblue;
+  color: rgb(100, 149, 237);
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 50px;
@@ -13,7 +13,7 @@ h1 {
 }
 
 a {
-  color: LightSkyBlue;
+  color: rgb(100, 149, 237);
   text-decoration: none;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -21,11 +21,11 @@ a {
   font-weight: bold;
   border-radius: 5px;
   padding: 10px 15px;
-  background-color: rgba (0,0,0,0.5);
+ 
 }
 a:hover {
-  color: white;
-  background-color: LightSkyBlue; 
+  color: rgb(240, 248, 255);
+  background-color: rgb(100, 149, 237); 
 }
 a:hover {
   color: white;
