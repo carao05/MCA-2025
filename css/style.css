@@ -24,18 +24,7 @@ h2 {
   background-color: #D4DFF4;
 }
 
-h3 {
-  color: #7094DB;
-  text-align: left;
-  font-family: tahoma;
-  font-size: 20px;
-  font-weight: 900;
-  margin-left: 20px; 
-  border-radius: 5px;
-  padding: 10px 15px;
-}
-
-h4 {
+h3{
   color: LemonChiffon;
   text-align: left;
   font-family: tahoma;
