@@ -83,7 +83,6 @@ iframe {
   margin-right: 100px;
 }
 
-
 div.a {
   margin-left: 100px;
   margin-right: 100px;
@@ -94,6 +93,7 @@ div.a {
     width: 60%;
     margin: 20px auto;
   }
+
   th, td {
     border: 3px solid #D4DFF4;
     padding: 8px 12px;
@@ -102,17 +102,18 @@ div.a {
     font-weight: 500;
     color: #003399;
   }
+
   th {
     background-color: LemonChiffon;
     text-align: left;
     font-weight: bold;
     color: #003399;
   }
+
   th[rowspan], th:first-child {
     background-color: LemonChiffon;
     text-align: left;
     font-weight: bold;
-
   }
 
 img.waves {
