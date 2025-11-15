@@ -50,6 +50,21 @@ p {
  padding: 10px 15px;
 }
 
+p.song-titles {
+  position: relative;
+  left: 30px;
+  margin-left: 100px; 
+  margin-right: 100px; 
+  color: #003399;
+  font-family: tahoma;
+  font-weight: 500;
+  background-color: LemonChiffon;
+  display: inline-block;
+  border-radius: 5px;
+  padding: 10px 15px;
+}
+
+
 ul {
   list-style-type: none;
   margin: 0;
