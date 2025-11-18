@@ -1995,3 +1995,13 @@ ul li a.active {
   background-color: #003399;
   color: LemonChiffon
 }
+
+h1 {
+  color: #7094DB;
+  text-align: center;
+  font-family: tahoma;
+  font-size: 50px;
+  font-weight: 900; 
+  border-radius: 5px;
+  padding: 2px 15px;
+}
