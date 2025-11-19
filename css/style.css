@@ -2,7 +2,7 @@ body {
  background-colour: FloralWhite;
  margin: 0;
 }
-<!-- headings -->
+
 h1 {
   color: #7094DB;
   text-align: center;
@@ -38,8 +38,6 @@ h3 {
   background-color: rgb(100, 149, 237);
 }
 
-<!-- paragraphs -->
-
 p {
  margin-left: 100px; 
  margin-right: 100px; 
@@ -65,7 +63,6 @@ p.song-titles {
   border-radius: 5px;
   padding: 10px 15px;
 }
-<!-- navigation bar -->
 
 ul {
   list-style-type: none;
@@ -94,7 +91,6 @@ ul li a.active {
   background-color: #003399;
   color: LemonChiffon
 }
-<!-- spotify link -->
 
 iframe {
   margin-left: 100px;
@@ -105,8 +101,6 @@ div.a {
   margin-left: 100px;
   margin-right: 100px;
 }
-
-<!-- table -->
 
   table {
     border-collapse: collapse;
@@ -135,7 +129,6 @@ div.a {
     text-align: left;
     font-weight: bold;
   }
-<!-- week 8 -->
 
 img.waves {
   margin-left: 10px;
