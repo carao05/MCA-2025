@@ -1806,9 +1806,17 @@ tei-zone {
 }
 
 mei-title[type="subordinate"] {
-  font-size: 30pt;
-  font-variant-caps: small-caps;
-  margin-top: -0.5em;
+  color: LemonChiffon;
+  text-align: left;
+  font-family: tahoma;
+  font-size: 15px;
+  font-weight: 900;
+  margin-left: 20px;
+  margin-right: 100px; 
+  display: inline-block;
+  border-radius: 5px;
+  padding: 10px 15px;
+  background-color: rgb(100, 149, 237);
 }
 
 mei-filedesc > mei-titlestmt > mei-title {
