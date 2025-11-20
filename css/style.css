@@ -64,6 +64,12 @@ p.song-titles {
   padding: 10px 15px;
 }
 
+div.waves {
+ position: relative;
+ top: 10px
+ left: 10px;
+ }
+
 
 ul {
   list-style-type: none;
