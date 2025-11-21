@@ -1820,9 +1820,17 @@ mei-title[type="subordinate"] {
 }
 
 mei-filedesc > mei-titlestmt > mei-title {
-  color: #595b66;
-  display: block;
-  font-size: 24pt;
+  color: LemonChiffon;
+  text-align: left;
+  font-family: tahoma;
+  font-size: 15px;
+  font-weight: 900;
+  margin-left: 20px;
+  margin-right: 100px; 
+  display: inline-block;
+  border-radius: 5px;
+  padding: 10px 15px;
+  background-color: rgb(100, 149, 237);
 }
 
 mei-filedesc > mei-titlestmt > mei-respstmt {
@@ -1832,15 +1840,15 @@ mei-filedesc > mei-titlestmt > mei-respstmt {
 
 mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="composer"]::before {
    margin-left: 100px; 
- margin-right: 100px; 
- color: #003399;
- font-family: tahoma;
- font-weight: 500;
- background-color: LemonChiffon;
- display: inline-block;
- border-radius: 5px;
- padding: 10px 15px;
-  content: "Composer: ";
+   margin-right: 100px; 
+   color: #003399;
+   font-family: tahoma;
+   font-weight: 500;
+   background-color: LemonChiffon;
+   display: inline-block;
+   border-radius: 5px;
+   padding: 10px 15px;
+   content: "Composer: ";
 }
 
 mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="encoder"]::before {
@@ -1858,8 +1866,17 @@ mei-pubstmt > mei-address {
 }
 
 mei-filedesc > mei-pubstmt > mei-date::before {
-  font-weight: bold;
-  content: "Date encoded: "
+  color: LemonChiffon;
+  text-align: left;
+  font-family: tahoma;
+  font-size: 15px;
+  font-weight: 900;
+  margin-left: 20px;
+  margin-right: 100px; 
+  display: inline-block;
+  border-radius: 5px;
+  padding: 10px 15px;
+  background-color: rgb(100, 149, 237);
 }
 
 mei-filedesc > mei-pubstmt > mei-date::after {
