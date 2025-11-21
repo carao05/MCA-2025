@@ -1810,7 +1810,7 @@ mei-title[type="subordinate"] {
   text-align: left;
   font-family: tahoma;
   font-size: 15px;
-  font-weight: 900;
+  font-weight: 500;
   margin-left: 20px;
   margin-right: 100px; 
   display: inline-block;
@@ -1929,7 +1929,15 @@ mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-title[type="uni
 }
 
 mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-respstmt > mei-persname[role="composer"] {
-  display: none;
+   margin-left: 100px; 
+ margin-right: 100px; 
+ color: #003399;
+ font-family: tahoma;
+ font-weight: 500;
+ background-color: LemonChiffon;
+ display: inline-block;
+ border-radius: 5px;
+ padding: 10px 15px;
 }
 
 mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-respstmt > mei-persname[role="dedicatee"]::before {
@@ -1949,9 +1957,15 @@ mei-filedesc > mei-sourcedesc > mei-source > mei-physdesc {
 }
 
 mei-filedesc > mei-sourcedesc > mei-source > mei-pubstmt > mei-respstmt > mei-corpname::before {
-  font-weight: bold;
-  content: "Published by: ";
-  white-space: pre;
+ margin-left: 100px; 
+ margin-right: 100px; 
+ color: #003399;
+ font-family: tahoma;
+ font-weight: 500;
+ background-color: LemonChiffon;
+ display: inline-block;
+ border-radius: 5px;
+ padding: 10px 15px;
 }
 
 mei-pubplace::before {
