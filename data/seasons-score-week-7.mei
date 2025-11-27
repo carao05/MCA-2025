@@ -19,6 +19,10 @@
                <corpName role="publisher" auth.uri="" auth="">WAVY Label</corpName>
             </publisher>
             <date isodate="2025-11-18" type="encoding-date">2025-11-18</date>
+        <availability>
+            <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+             authority="Creative Commons"> Creative Commons Attribution 4.0 International, CC BY-NC- SA </useRestrict>
+       </availability>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="e1wdyyss">
